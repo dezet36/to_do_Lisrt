@@ -1,2 +1,2 @@
-# to_do_Lisr
+# to_do_List
 i'm homework (to do list)
